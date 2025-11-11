@@ -8,7 +8,7 @@ tags: [manticore, boss, jefe, hibrido]
 
 ## Manticore — Dossier de Jefe Híbrido
 
-![Manticore de ARK](https://ark.fandom.com/wiki/Manticore?file=Manticore.png)
+![Manticore de ARK](/assets/imagenes/manticore.jpg)
 
 ### Descripción General
 

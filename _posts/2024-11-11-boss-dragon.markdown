@@ -8,7 +8,7 @@ tags: [dragon, boss, jefe, combate]
 
 ## Dragon Alfa — Dossier de Jefe
 
-![Dragon Alfa de ARK](https://ark.fandom.com/wiki/Dragon?file=Dragon.png)
+![Dragon Alfa de ARK](/assets/imagenes/dragon.jpg)
 
 ### Descripción General
 

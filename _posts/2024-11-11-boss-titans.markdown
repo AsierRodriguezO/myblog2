@@ -8,7 +8,7 @@ tags: [titan, boss, jefe, extinction, colosal]
 
 ## Titans — Dossier de Jefes Colosales
 
-![Titans de ARK](https://ark.fandom.com/wiki/Titan?file=Titan.png)
+![Titans de ARK](/assets/imagenes/Thielio.jpg)
 
 ### Descripción General
 
@@ -17,6 +17,8 @@ Los **Titans** son cuatro jefes colosales únicos de **Extinction**, cada uno re
 ---
 
 ## 1. Frost Titan (Titán de Hielo)
+
+![Titans de ARK](/assets/imagenes/Thielio.jpg)
 
 ### Características
 
@@ -47,6 +49,8 @@ Los **Titans** son cuatro jefes colosales únicos de **Extinction**, cada uno re
 ---
 
 ## 2. Forest Titan (Titán de Naturaleza)
+
+![Titans de ARK](/assets/imagenes/Tbosque.jpg)
 
 ### Características
 

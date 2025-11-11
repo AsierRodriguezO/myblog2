@@ -8,7 +8,7 @@ tags: [phoenix, boss, jefe, fuego]
 
 ## Phoenix — Dossier de Jefe Legendario
 
-![Phoenix de ARK](https://ark.fandom.com/wiki/Phoenix?file=Phoenix.png)
+![Phoenix de ARK](/assets/imagenes/phoenix.jpg)
 
 ### Descripción General
 

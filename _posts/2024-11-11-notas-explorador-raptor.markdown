@@ -8,7 +8,7 @@ tags: [raptor, ark, domesticacion, combate]
 
 ## Raptor — Ficha Rápida
 
-![Raptor de ARK](https://ark.fandom.com/wiki/Raptor?file=Raptor.png)
+![Raptor de ARK](/assets/imagenes/raptor.jpg)
 
 ### Descripción General
 

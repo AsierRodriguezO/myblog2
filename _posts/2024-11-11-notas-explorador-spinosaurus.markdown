@@ -8,7 +8,7 @@ tags: [spinosaurus, ark, depredador, agua]
 
 ## Spinosaurus — Ficha Rápida
 
-![Spinosaurus de ARK](https://ark.fandom.com/wiki/Spinosaurus?file=Spinosaurus.png)
+![Spinosaurus de ARK](/assets/imagenes/spino.jpg)
 
 ### Descripción General
 

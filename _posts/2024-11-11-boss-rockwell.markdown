@@ -8,7 +8,7 @@ tags: [rockwell, boss, jefe, aberration]
 
 ## Rockwell — Dossier de Jefe Primordial
 
-![Rockwell de ARK](https://ark.fandom.com/wiki/Rockwell?file=Rockwell.png)
+![Rockwell de ARK](/assets/imagenes/rockwell.jpg)
 
 ### Descripción General
 
