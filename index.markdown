@@ -18,7 +18,7 @@ Bienvenido a este pequeño rincón dedicado a las "Notas de explorador": apuntes
 
 ## Jefes y Bosses (Dossiers Completos)
 
-- [Dragon Alfa — Jefe de The Island]({% post_url 2024-11-11-boss-dragon %}) — El boss final más legendario: estrategias y estadísticas.
+- [Dragon Alfa — Jefe de The Island]({% post_url 2024-11-11-boss-dragon.markdown %) — El boss final más legendario: estrategias y estadísticas.
 - [Phoenix — Jefe Legendario]({% post_url 2024-11-11-boss-phoenix %}) — Criatura mitológica: obtención y combate avanzado.
 - [Manticore — Jefe de Ragnarok]({% post_url 2024-11-11-boss-manticore %}) — Boss híbrido: ataque melee + ranged.
 - [Megapithecus — Jefe de The Island]({% post_url 2024-11-11-boss-megapithecus %}) — King Kong: alternativa más accesible al Dragon.
