@@ -21,7 +21,7 @@
 title: Asier Rodriguez
 email: asier.rodriguez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Este es mi segundo blog con Jekyll. En este blog hablaré sobre desarrollo web, programación y tecnología.
+  Usando el tema minima.
 baseurl: "/myblog2" # the subpath of your site, e.g. /blog
 url: "https://AsierRodriguezO.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: asier_rodriguez
