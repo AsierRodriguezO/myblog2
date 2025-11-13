@@ -8,9 +8,7 @@ tags: [dragon, boss, jefe, combate]
 
 ## Dragon Alfa — Dossier de Jefe
 
-![Dragon Alfa de ARK](assets/img/dragon.jpg)
-![Dragon Alfa de ARK]({{site.github.url}}/assets/img/dragon.jpg)
-![Dragon Alfa de ARK](dragon.jpg)
+![Dragon Alfa de ARK]({{site.baseurl}}/assets/img/dragon.jpg)
 
 ### Descripción General
 

@@ -8,7 +8,7 @@ tags: [megapithecus, kong, boss, jefe]
 
 ## Megapithecus (King Kong) — Dossier de Jefe
 
-![Megapithecus de ARK](/assets/imagenes/megaphitecus.jpg)
+![Megapithecus de ARK]({{site.baseurl}}/assets/imagenes/megaphitecus.jpg)
 
 ### Descripción General
 
