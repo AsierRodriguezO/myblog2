@@ -11,7 +11,7 @@ Bienvenido a este pequeño rincón dedicado a las "Notas de explorador": apuntes
 
 ## Dinosaurios Comunes
 
-- [Introducción a las notas de explorador]({% post_url 2024-11-11-notas-explorador-introduccion %}) — qué son las notas de explorador y cómo usarlas.
+- [Introducción a las notas de explorador]({site.baseurl}}{{% post_url 2024-11-11-notas-explorador-introduccion %}) — qué son las notas de explorador y cómo usarlas.
 - [Raptor — Notas de explorador]({% post_url 2024-11-11-notas-explorador-raptor %}) — ficha rápida del raptor: comportamiento, taming y usos.
 - [Brontosaurus — Notas de explorador]({% post_url 2024-11-11-notas-explorador-brontosaurus %}) — ficha rápida del brontosaurus: dónde encontrarlo y utilidades.
 - [Spinosaurus — Notas de explorador]({% post_url 2024-11-11-notas-explorador-spinosaurus %}) — depredador semiacuático: mecánicas agua-tierra y estrategias.
