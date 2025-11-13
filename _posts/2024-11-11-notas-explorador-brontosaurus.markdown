@@ -8,7 +8,7 @@ tags: [brontosaurus, ark, recursos, transporte]
 
 ## Brontosaurus — Ficha Rápida
 
-![Brontosaurus de ARK]({{site.github.url}}/assets/imagenes/bronto.jpg)
+![Brontosaurus de ARK]({{site.github.url}}/assets/img/bronto.jpg)
 
 ### Descripción General
 
